@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 Python Developer from EU<br>🎓 Bachelor of Science in Computational Physics<br>📈 Competent in mathematical analysis, probability theory, mathematical statistics<br>🗔  Qt adept<br>🌱 I’m currently improving my dev and data analysis skills<br>👨‍💻 Looking for a job <br>
+🌍 Python Developer from CEE<br>🎓 Bachelor of Science in Computational Physics<br>📈 Competent in mathematical analysis, probability theory, mathematical statistics<br>🗔  Qt adept<br>🌱 I’m currently improving my dev and data analysis skills<br>👨‍💻 Looking for a job <br>
 
 
 ## 🌐 Socials:
