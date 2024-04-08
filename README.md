@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌍 Data Scientist from Eastern Europe<br>🎓 Bachelor of Science in Computational Physics<br>📈 Competent in mathematical analysis, probability theory, mathematical statistics<br>🗔  Python developer, Data Science Rookie <br>🌱 I’m currently improving my ML and Data Analysis skills<br>👨‍💻 Looking for a job <br>
-
+🌍 Data Scientist from Eastern Europe<br>🎓 Bachelor of Science in Computational Physics<br>📈 Competent in mathematical analysis, probability theory, mathematical statistics<br>🗔  Python developer, Data Science Rookie <br>🌱 I’m currently improving my ML and Data Analysis skills<br>
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/T1r3sh) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spiref/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t1r3sh/) 
